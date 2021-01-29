@@ -1,5 +1,7 @@
 Graficos
 
+ <img alt="Logo" title="#logo" width="800px" src="https://raw.githubusercontent.com/pedropbazzo/pedropbazzoChartJS/main/src/assets/chartjs.png">
+
 
 ## Installation
 
